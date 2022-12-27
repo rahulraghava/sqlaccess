@@ -8,6 +8,6 @@ mysqlclient==1.4.2.post1
 mysql-connector-python==8.0.17
 pip==19.2.1
 protobuf==3.9.1
-setuptools==40.8.0
+setuptools==65.5.1
 six==1.12.0
 Werkzeug==0.15.5
